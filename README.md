@@ -11,7 +11,8 @@ Hola Koders!!
 3. Aplicar caracteristicas de Nextjs:
     - routing
     - API
-    - Styles
+    - Styles (Global CSS | Module CSS | CSS-in-JS)
+        - Boostrap
     - Data Fetching -> SSR | CSR | SSG  
 
 4. Subir el repositorio a uno remoto en github.
